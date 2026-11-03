@@ -1,0 +1,19 @@
+{
+  "id": "E11",
+  "title": "E11 | Fixed option-box payoff and acquisition arithmetic",
+  "labels": [
+    "Payoff",
+    "Debit",
+    "Entry fee",
+    "Conditional margin"
+  ],
+  "values": [
+    10.0,
+    12.55,
+    0.84929,
+    -3.39929
+  ],
+  "unit": "USDC per fixed box",
+  "limitation": "Single snapshot; timestamp/execution gates failed. Delivery fees can reduce the margin further.",
+  "rotation": 0
+}

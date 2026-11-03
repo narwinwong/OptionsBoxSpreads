@@ -1,0 +1,12 @@
+{
+  "study": "E11",
+  "release_type": "aggregate_report_only",
+  "files_sha256": {
+    ".gitignore": "01d8d0360f02a0c00e236a4eb2a1d8bdf83377acf442eaafad7a136bf14d6bb0",
+    "findings.json": "f3ec61f3dbcf8dd67a250b3cd46f846a96980b08e439679f1265d40407e3f2d6",
+    "plot_results.py": "ae83a7bc826834196d648b849757f468a0c613713210e520dc54c940eba9b58a",
+    "README.md": "f246e577e8fa3d2fcb95e0ac19b16f53446b561c1cc240fec7602c2ed05c47fa",
+    "requirements.txt": "321e5b4bf6fe7797abd0b9c1ba26980ee13fd4bf6e2a92bddf1285010bb6c6d4",
+    "figures/testing_results.png": "1a78ce86e65c7c5da654cd8f51741576b6b1b954c2ee379698a8790e1d0b06ca"
+  }
+}
